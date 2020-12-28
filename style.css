@@ -1,0 +1,19 @@
+#the_kubelwagon
+{
+    width: 100px;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#selfie_photo
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#text_box
+{
+    width: 300px;
+}
